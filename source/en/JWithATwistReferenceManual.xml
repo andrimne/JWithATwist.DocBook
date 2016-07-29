@@ -2,6 +2,10 @@
 <article xml:lang="en" xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xl="http://www.w3.org/1999/xlink">
 	<info>		
 		<title>JWithATwist Reference Manual</title>
+		<copyright>
+        <year>2016</year>
+        <holder>Erling Hellenäs</holder>
+ </copyright>
 	</info>
 	<section>
 		<title>JWithATwist</title>
