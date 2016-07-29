@@ -318,7 +318,7 @@ Type: Integer, Shape: 2 2 3 , Values: 0 0 0 1 0 0 0 1 2 0 0 0 ...
 				<entry>Box</entry>
 			</row>	
 			<row>
-				<entry><code>|&lt;</code></entry>
+				<entry><code>|':</code></entry>
 				<entry>DefaultFormat</entry>
 			</row>				
 			<row>
