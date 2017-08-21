@@ -322,7 +322,7 @@ Type: Integer, Shape: 2 2 3 , Values: 0 0 0 1 0 0 0 1 2 0 0 0 ...
 				<entry>DefaultFormat</entry>
 			</row>				
 			<row>
-				<entry><code>/:</code></entry>
+				<entry><code>|/:</code></entry>
 				<entry>GradeUp</entry>
 			</row>	
 							<row>
@@ -927,7 +927,7 @@ Type: Integer, Shape: 2 2 3 , Values: 0 0 0 1 0 0 0 1 2 0 0 0 ...
 </section>
 <section>
 	<title>Using JWithATwist From F#</title>
-	<para>All WithATwist verbs, adverbs and conjunctions can be used directly from F#. Usually the name is the same as the name of the language element preceded by J. JOpen, JBox, JAdd and JSubtract are some examples. Sometimes there is a monadic and a dyadic version of the language element. Then Monadic or Dyadic is appended to the name. JIotaMonadic, JIotaDyadic, JRankMonadic and JRankDyadic are some examples. </para>
+	<para>All JWithATwist verbs, adverbs and conjunctions can be used directly from F#. Usually the name is the same as the name of the language element preceded by J. JOpen, JBox, JAdd and JSubtract are some examples. Sometimes there is a monadic and a dyadic version of the language element. Then Monadic or Dyadic is appended to the name. JIotaMonadic, JIotaDyadic, JRankMonadic and JRankDyadic are some examples. </para>
 	<para>When you use the verbs, adverbs and conjunctions you need noun arguments.</para>
 	<para> A noun is a simple record structure containing type, shape and an F# array of values. You can see the type definitions at the top of the JWithATwist.Base module. You can easily create a noun from F# variables.</para>
 	<para>If you want to create a noun from a JWithATwist expression you can use the JNounDefine helper function. It takes a string right argument with a JWithATwist expression and returns a noun.</para>
