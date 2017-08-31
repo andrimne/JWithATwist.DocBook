@@ -190,7 +190,7 @@ Type: Integer, Shape: 2 2 3 , Values: 0 0 0 1 0 0 0 1 2 0 0 0 ...
 			</row>
 								<row>
 				<entry><code>||</code></entry>
-				<entry>Magnitude</entry>
+				<entry>Absolute value</entry>
 			</row>
 		</tbody>
 	</tgroup>
